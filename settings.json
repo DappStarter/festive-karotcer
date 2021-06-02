@@ -1,0 +1,19 @@
+{
+    "name": "ELIXER",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/nft/core-composable_nft": true,
+        "/category/nft/core-composable_nft/template": "collectible",
+        "/category/asset_value_tracking/core-token/name": "Elixer",
+        "/category/asset_value_tracking/core-token/symbol": "ELIXER",
+        "/category/asset_value_tracking/core-token/decimals": "0",
+        "/category/asset_value_tracking/core-token/supply": "1000000",
+        "/category/collection/core-entity": true
+    }
+}
